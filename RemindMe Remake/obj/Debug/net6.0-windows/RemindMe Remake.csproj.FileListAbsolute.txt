@@ -1,0 +1,23 @@
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\bin\Debug\net6.0-windows\RemindMe Remake.exe
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\bin\Debug\net6.0-windows\RemindMe Remake.deps.json
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\bin\Debug\net6.0-windows\RemindMe Remake.runtimeconfig.json
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\bin\Debug\net6.0-windows\RemindMe Remake.dll
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\bin\Debug\net6.0-windows\RemindMe Remake.pdb
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe Remake.csproj.AssemblyReference.cache
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe_Remake.dashboard.resources
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe_Remake.frmRegister.resources
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe_Remake.frmLogin.resources
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe Remake.csproj.GenerateResource.cache
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe Remake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe Remake.AssemblyInfoInputs.cache
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe Remake.AssemblyInfo.cs
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe Remake.csproj.CoreCompileInputs.cache
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe Remake.csproj.CopyComplete
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe Remake.dll
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\refint\RemindMe Remake.dll
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe Remake.pdb
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe Remake.genruntimeconfig.cache
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\ref\RemindMe Remake.dll
+D:\Visual Studio\RemindMe Remake\RemindMe Remake\obj\Debug\net6.0-windows\RemindMe_Remake.Properties.Resources.resources
